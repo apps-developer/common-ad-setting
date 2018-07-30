@@ -1,3 +1,16 @@
-{
-"ad":"132"
-}
+[
+  {
+    "package_name":"132",
+    "active_ad" : "1",
+    "random_no" : "5",
+    "google_ad_interestial": "456",
+    "fb_ad_interestial": "132"
+  },
+  {
+    "package_name":"456",
+    "active_ad" : "1",
+    "random_no" : "5",
+    "google_ad_interestial": "456",
+    "fb_ad_interestial": "132"
+  }
+]
