@@ -15,6 +15,14 @@
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2940174465516382/1995549745",
     "fb_ad_interestial": "2040129419394314_2040129812727608"
-  }
+  },
+   {
+    "package_name":"org.photoeditor.boysphotoeditor",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "false",
+    "google_ad_interestial": "ca-app-pub-2940174465516382/7710366344",
+    "fb_ad_interestial": "1841018229532195_1843716119262406"
+}
 ]
 }
