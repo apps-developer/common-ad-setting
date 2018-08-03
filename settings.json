@@ -23,6 +23,14 @@
     "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2940174465516382/7710366344",
     "fb_ad_interestial": "1841018229532195_1843716119262406"
-}
+   },
+  {
+    "package_name":"com.gallerypro.gallery",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "false",
+    "google_ad_interestial": "ca-app-pub-6892625045048837/9262688640",
+    "fb_ad_interestial": "ca-app-pub-68926250"
+  }
 ]
 }
