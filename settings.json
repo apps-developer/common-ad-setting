@@ -14,7 +14,10 @@
     "random_no" : "4",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2940174465516382/1995549745",
-    "fb_ad_interestial": "2040129419394314_2040129812727608"
+    "fb_ad_interestial": "2040129419394314_2040129812727608",
+    "flk" : "https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=ba4edac775e02d304d66a3567c7bfeaa&photoset_id=72157698261116531&extras=description%2C+url_m%2C+url_o%2C+url_l&per_page=20&page=1&format=json&nojsoncallback=1",
+    "cust_isshow" : "true",
+    "interval" : "01:03"
   },
    {
     "package_name":"org.photoeditor.boysphotoeditor",
