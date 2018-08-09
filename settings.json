@@ -25,7 +25,10 @@
     "random_no" : "2",
     "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2940174465516382/7710366344",
-    "fb_ad_interestial": "1841018229532195_1843716119262406"
+    "fb_ad_interestial": "1841018229532195_1843716119262406",
+    "flk" : "https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key=ba4edac775e02d304d66a3567c7bfeaa&photoset_id=72157698261116531&extras=description%2C+url_m%2C+url_o%2C+url_l&per_page=20&page=1&format=json&nojsoncallback=1",
+    "cust_isshow" : "true",
+    "interval" : "01:03"
    },
   {
     "package_name":"com.gallerypro.gallery",
