@@ -26,6 +26,7 @@
     "google_ad_interestial": "ca-app-pub-2940174465516382/7710366344",
     "fb_ad_interestial": "1841018229532195_1843716119262406",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/org.videostatus.whatsapp.png",
+    "customad_pkg" : "org.videostatus.whatsapp",
     "cust_isshow" : "true"
    },
   {
