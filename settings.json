@@ -11,6 +11,17 @@
     "customad_pkg" : "org.videostatus.whatsapp",
     "cust_isshow" : "true"
   },
+  {
+   "package_name":"gallery.gallerydownload.gallerylocker",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
+    "fb_ad_interestial": "204770937041940_204771200375222",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/org.videostatus.whatsapp.png",
+    "customad_pkg" : "org.videostatus.whatsapp",
+    "cust_isshow" : "true"
+  }
    {
     "package_name":"org.videostatus.whatsapp",
     "active_ad" : "1",
