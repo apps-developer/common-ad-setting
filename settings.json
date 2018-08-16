@@ -21,7 +21,7 @@
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/org.videostatus.whatsapp.png",
     "customad_pkg" : "org.videostatus.whatsapp",
     "cust_isshow" : "true"
-  }
+  },
    {
     "package_name":"org.videostatus.whatsapp",
     "active_ad" : "1",
