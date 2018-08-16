@@ -13,7 +13,7 @@
   },
   {
    "package_name":"gallery.gallerydownload.gallerylocker",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "2",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
