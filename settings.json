@@ -22,6 +22,17 @@
     "customad_pkg" : "com.gs.autocallrecorder",
     "cust_isshow" : "true"
   },
+  {
+   "package_name":"music.player.musicplayer",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
+    "fb_ad_interestial": "215464347124424",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/com.gs.autocallrecorder.png",
+    "customad_pkg" : "com.gs.autocallrecorder",
+    "cust_isshow" : "true"
+  },
    {
     "package_name":"org.videostatus.whatsapp",
     "active_ad" : "1",
