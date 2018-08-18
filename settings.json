@@ -7,7 +7,7 @@
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2940174465516382/8830727191",
     "fb_ad_interestial": "204770937041940_204771200375247",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/org.videostatus.whatsapp.png",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/com.gs.autocallrecorder.png",
     "customad_pkg" : "org.videostatus.whatsapp",
     "cust_isshow" : "true"
   },
@@ -18,7 +18,7 @@
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
     "fb_ad_interestial": "2154643471244243_2154643691244221",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/org.videostatus.whatsapp.png",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/com.gs.autocallrecorder.png",
     "customad_pkg" : "org.videostatus.whatsapp",
     "cust_isshow" : "true"
   },
