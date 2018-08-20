@@ -39,7 +39,7 @@
     "random_no" : "2",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2940174465516382/2088783312",
-    "fb_ad_interestial": "2021256091470634_2021256611470582",
+    "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/com.gs.autocallrecorder.png",
     "customad_pkg" : "com.gs.autocallrecorder",
     "cust_isshow" : "true"
