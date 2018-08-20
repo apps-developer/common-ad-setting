@@ -7,8 +7,8 @@
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2940174465516382/8830727191",
     "fb_ad_interestial": "204770937041940_2047712003752477",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/com.gs.autocallrecorder.png",
-    "customad_pkg" : "com.gs.autocallrecorder",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.player.musicplayer.png",
+    "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
   },
   {
@@ -18,8 +18,8 @@
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
     "fb_ad_interestial": "2154643471244243_2154643691244221",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/com.gs.autocallrecorder.png",
-    "customad_pkg" : "com.gs.autocallrecorder",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.player.musicplayer.png",
+    "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
   },
   {
@@ -40,8 +40,8 @@
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2940174465516382/2088783312",
     "fb_ad_interestial": "",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/com.gs.autocallrecorder.png",
-    "customad_pkg" : "com.gs.autocallrecorder",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.player.musicplayer.png",
+    "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
   },
    {
@@ -61,8 +61,8 @@
     "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2940174465516382/7710366344",
     "fb_ad_interestial": "1841018229532195_1843716119262406",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/org.videostatus.whatsapp.png",
-    "customad_pkg" : "org.videostatus.whatsapp",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.player.musicplayer.png",
+    "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
    },
   {
