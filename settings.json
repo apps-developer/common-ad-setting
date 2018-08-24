@@ -31,7 +31,7 @@
     "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/org.videostatus.whatsapp.png",
     "customad_pkg" : "org.videostatus.whatsapp",
-    "cust_isshow" : "false"
+    "cust_isshow" : "true"
   },
    {
    "package_name":"org.photo.gallery",
