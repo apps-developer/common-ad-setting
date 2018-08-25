@@ -9,7 +9,7 @@
     "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/adbaner.jpg",
     "customad_pkg" : "org.videostatus.whatsapp",
-    "cust_isshow" : "false"
+    "cust_isshow" : "true"
   }
 ]
 }
