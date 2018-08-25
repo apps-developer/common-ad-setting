@@ -9,7 +9,7 @@
     "fb_ad_interestial": "204770937041940_2047712003752477",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.payer.musicplayer.png",
     "customad_pkg" : "music.player.musicplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
   },
   {
    "package_name":"gallery.gallerydownload.gallerylocker",
@@ -20,7 +20,7 @@
     "fb_ad_interestial": "2154643471244243_2154643691244221",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.payer.musicplayer.png",
     "customad_pkg" : "music.player.musicplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
   },
   {
    "package_name":"music.player.musicplayer",
@@ -42,7 +42,7 @@
     "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.payer.musicplayer.png",
     "customad_pkg" : "music.player.musicplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
   },
    {
     "package_name":"org.videostatus.whatsapp",
@@ -53,7 +53,7 @@
     "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.payer.musicplayer.png",
     "customad_pkg" : "music.player.musicplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
   },
    {
     "package_name":"org.photoeditor.boysphotoeditor",
@@ -64,7 +64,7 @@
     "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.payer.musicplayer.png",
     "customad_pkg" : "music.player.musicplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
    },
   {
     "package_name":"com.gallerypro.gallery",
