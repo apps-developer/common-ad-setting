@@ -20,7 +20,7 @@
     "fb_ad_interestial": "204770937041940_2047712003752477",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
-"cust_isshow" : "false"
+    "cust_isshow" : "true"
   }
 ]
 }
