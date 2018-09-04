@@ -21,6 +21,17 @@
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
+  }, 
+  {
+    "package_name":"org.videostatus.whatsapp",
+    "active_ad" : "1",
+    "random_no" : "4",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-2940174465516382/1995549745",
+    "fb_ad_interestial": "",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.payer.musicplayer.png",
+    "customad_pkg" : "music.player.musicplayer",
+    "cust_isshow" : "false"
   },
    {
    "package_name":"com.gs.locked",
