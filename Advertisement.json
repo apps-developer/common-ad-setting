@@ -40,7 +40,7 @@
     "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2940174465516382/7710366344",
     "fb_ad_interestial": "",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/music.payer.musicplayer.png",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
 }
