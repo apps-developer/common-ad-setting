@@ -42,7 +42,7 @@
     "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
  },
   {
    "package_name":"gallery.gallerydownload.gallerylocker",
