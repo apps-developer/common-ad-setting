@@ -20,7 +20,7 @@
     "fb_ad_interestial": "204770937041940_2047712003752477",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
   }, 
   {
     "package_name":"org.videostatus.whatsapp",
