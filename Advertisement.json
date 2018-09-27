@@ -14,8 +14,8 @@
   {
   "package_name":"com.gallerylocker.gallery",
     "active_ad" : "1",
-    "random_no" : "2",
-    "IsAdshowOneTime" : "true",
+    "random_no" : "6",
+    "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2940174465516382/8830727191",
     "fb_ad_interestial": "204770937041940_2047712003752477",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
@@ -42,13 +42,13 @@
     "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
-    "cust_isshow" : "false"
+    "cust_isshow" : "true"
  },
   {
    "package_name":"gallery.gallerydownload.gallerylocker",
     "active_ad" : "1",
-    "random_no" : "2",
-    "IsAdshowOneTime" : "true",
+    "random_no" : "6",
+    "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2940174465516382/9336154886",
     "fb_ad_interestial": "2154643471244243_2154643691244221",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
