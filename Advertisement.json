@@ -14,7 +14,7 @@
   {
   "package_name":"com.gallerylocker.gallery",
     "active_ad" : "1",
-    "random_no" : "6",
+    "random_no" : "4",
     "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2940174465516382/8830727191",
     "fb_ad_interestial": "204770937041940_2047712003752477",
@@ -47,7 +47,7 @@
   {
    "package_name":"gallery.gallerydownload.gallerylocker",
     "active_ad" : "1",
-    "random_no" : "6",
+    "random_no" : "4",
     "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2940174465516382/9336154886",
     "fb_ad_interestial": "2154643471244243_2154643691244221",
