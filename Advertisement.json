@@ -17,7 +17,7 @@
     "random_no" : "2",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2940174465516382/8830727191",
-    "fb_ad_interestial": "204770937041940_2047712003752477",
+    "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
@@ -50,7 +50,7 @@
     "random_no" : "2",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2940174465516382/9336154886",
-    "fb_ad_interestial": "2154643471244243_2154643691244221",
+    "fb_ad_interestial": "",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
