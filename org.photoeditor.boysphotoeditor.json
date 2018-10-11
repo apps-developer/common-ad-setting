@@ -10,9 +10,9 @@
     "fb_ad_interestial": "",
     "fb_nativebanner" : "",
     "active_banner_ad" : "1",
-    "is_update" : "false",
+    "is_update" : "true",
     "is_forcefully": "false",
-    "version_code" : "",
+    "version_code" : "23",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
     "cust_isshow" : "true"
