@@ -9,6 +9,7 @@
     "google_banner" : "",
     "fb_ad_interestial": "",
     "fb_nativebanner" : "",
+    "active_banner_ad" : "1", // 1= Google Banner, 2 = FB Banner
     "is_update" : "false",
     "is_forcefully": "false",
     "version_code" : "",
