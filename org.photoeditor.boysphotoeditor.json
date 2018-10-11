@@ -1,0 +1,20 @@
+{
+ "info": [
+   {
+    "package_name":"org.photoeditor.boysphotoeditor",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "false",
+    "google_ad_interestial": "ca-app-pub-2940174465516382/7710366344",
+    "google_banner" : "",
+    "fb_ad_interestial": "",
+    "fb_nativebanner" : "",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "version_code" : "",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
+    "customad_pkg" : "gallery.gallerydownload.gallerylocker",
+    "cust_isshow" : "true"
+ }
+]
+}
