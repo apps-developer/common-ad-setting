@@ -11,9 +11,9 @@
     "fb_nativebanner" : "1841018229532195_1934965863470764",
     "active_banner_ad" : "2",
     "is_update" : "false",
-    "is_forcefully": "true",
+    "is_forcefully": "false",
     "version_code" : "23",
-    "new_version_code" : "24",
+    "new_version_code" : "23",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
     "cust_isshow" : "true"
