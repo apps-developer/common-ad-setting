@@ -1,0 +1,22 @@
+{
+ "info": [
+   {
+    "package_name":"com.gallerylocker.gallery",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-2940174465516382/2088783312",
+    "google_banner" : "ca-app-pub-2940174465516382/4728464458",
+    "fb_ad_interestial": "204770937041940_204771200375247",
+    "fb_nativebanner" : "204770937041940_269363507249349",
+    "active_banner_ad" : "2",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "version_code" : "16",
+    "new_version_code" : "16",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
+    "customad_pkg" : "gallery.gallerydownload.gallerylocker",
+    "cust_isshow" : "true"
+ }
+]
+}
