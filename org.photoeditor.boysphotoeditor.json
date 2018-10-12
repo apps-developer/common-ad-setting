@@ -13,7 +13,7 @@
     "is_update" : "true",
     "is_forcefully": "false",
     "version_code" : "23",
-    "new_version_code" : "0",
+    "new_version_code" : "23",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
     "cust_isshow" : "true"
@@ -31,6 +31,7 @@
     "is_update" : "true",
     "is_forcefully": "false",
     "version_code" : "24",
+    "new_version_code" : "24",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
     "cust_isshow" : "true"
