@@ -170,6 +170,25 @@
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
+ },
+  {
+    "package_name":"com.videolocker.videoplayer",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-2940174465516382/2299639442",
+    "google_banner" : "ca-app-pub-2940174465516382/1057466690",
+    "fb_ad_interestial": "",
+    "fb_nativebanner" : "300493490782506_300497767448745",
+    "active_banner_ad" : "2",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "version_code" : "10",
+    "new_version_code" : "10",
+    "message" : "Update new 11 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
+    "customad_pkg" : "music.player.musicplayer",
+    "cust_isshow" : "true"
  }
 ]
 }
