@@ -14,8 +14,8 @@
     "is_forcefully": "false",
     "version_code" : "23",
     "new_version_code" : "23",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
-    "customad_pkg" : "gallery.gallerydownload.gallerylocker",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
+    "customad_pkg" : "hdvideoplayer.videolocker.videoplayer",
     "cust_isshow" : "true"
  }
 ]
