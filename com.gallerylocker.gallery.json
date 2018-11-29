@@ -14,8 +14,8 @@
     "is_forcefully": "false",
     "version_code" : "16",
     "new_version_code" : "16",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
-    "customad_pkg" : "hdvideoplayer.videolocker.videoplayer",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
+    "customad_pkg" : "music.mp3player.mp3musicdownload",
     "cust_isshow" : "true"
  },
   {
@@ -32,8 +32,8 @@
     "is_forcefully": "false",
     "version_code" : "17",
     "new_version_code" : "17",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
-    "customad_pkg" : "hdvideoplayer.videolocker.videoplayer",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
+    "customad_pkg" : "music.mp3player.mp3musicdownload",
     "cust_isshow" : "true"
  }
 ]
