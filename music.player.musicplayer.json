@@ -15,8 +15,8 @@
     "version_code" : "7",
     "new_version_code" : "7",
     "message" : "Update new 8 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
-    "customad_pkg" : "hdvideoplayer.videolocker.videoplayer",
+    "custom_adurl" : "https://github.com/apps-developer/common-ad-setting/blob/master/musicbanners.png",
+    "customad_pkg" : "music.mp3player.mp3musicdownload",
     "cust_isshow" : "true"
  },
    {
@@ -34,8 +34,8 @@
     "version_code" : "8",
     "new_version_code" : "8",
     "message" : "Update new 9 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
-    "customad_pkg" : "hdvideoplayer.videolocker.videoplayer",
+    "custom_adurl" : "https://github.com/apps-developer/common-ad-setting/blob/master/musicbanners.png",
+    "customad_pkg" : "music.mp3player.mp3musicdownload",
     "cust_isshow" : "true"
  },
   {
@@ -53,8 +53,8 @@
     "version_code" : "9",
     "new_version_code" : "9",
     "message" : "Update new 10 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
-    "customad_pkg" : "hdvideoplayer.videolocker.videoplayer",
+    "custom_adurl" : "https://github.com/apps-developer/common-ad-setting/blob/master/musicbanners.png",
+    "customad_pkg" : "music.mp3player.mp3musicdownload",
     "cust_isshow" : "true"
  },
   {
@@ -71,9 +71,9 @@
     "is_forcefully": "false",
     "version_code" : "10",
     "new_version_code" : "10",
-    "message" : "Update new 11 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
-    "customad_pkg" : "hdvideoplayer.videolocker.videoplayer",
+    "message" : "Now current version Mp3music download app is not available in play store so after exit app or press back button new version of mp3 music download is vailable so please update new version and uninstall current version so regular given new feature.",
+    "custom_adurl" : "https://github.com/apps-developer/common-ad-setting/blob/master/musicbanners.png",
+    "customad_pkg" : "music.mp3player.mp3musicdownload",
     "cust_isshow" : "true"
  }
 ]
