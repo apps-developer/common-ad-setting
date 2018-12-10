@@ -11,7 +11,7 @@
     "fb_nativebanner" : "",
     "active_banner_ad" : "1",
     "is_update" : "false",
-    "is_forcefully": "false",
+    "is_forcefully": "true",
     "version_code" : "2",
     "new_version_code" : "2",
     "message" : "Update new 2 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
