@@ -13,7 +13,7 @@
     "is_update" : "false",
     "is_forcefully": "false",
     "version_code" : "2",
-    "new_version_code" : "2.0",
+    "new_version_code" : "2",
     "message" : "Update new 2 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
