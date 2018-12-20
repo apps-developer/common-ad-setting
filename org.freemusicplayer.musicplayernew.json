@@ -44,13 +44,15 @@
  },
    {
     "package_name":"org.freemusicplayer.musicplayernew",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "2",
     "firstpage_fb_random" : "2",
+    "firstpage_fb_duration" : "1500",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial" : "ca-app-pub-6113069574875874/9657506204",
     "google_banner" : "ca-app-pub-6113069574875874/8085280526",
     "fb_ad_interestial" : "357838244778689_357840204778493",
+    "fb_ad_interestial_duration" : "1000";
     "firstpage_fb_interstrial_ad" : "357838244778689_357839861445194",
     "fb_nativebanner" : "357838244778689_357838714778642",
     "active_banner_ad" : "2",
