@@ -63,7 +63,7 @@
     "message" : "Update new 2 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "org.vidlocker.videoplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
  },
   {
     "package_name":"org.freemusicplayer.musicplayernew",
@@ -86,7 +86,7 @@
     "message" : "Update new 2 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "org.vidlocker.videoplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
  },
   {
     "package_name":"org.freemusicplayer.musicplayernew",
@@ -109,7 +109,7 @@
     "message" : "Update new 2 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "org.vidlocker.videoplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
  }
 ]
 }
