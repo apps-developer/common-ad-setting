@@ -110,6 +110,30 @@
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
     "cust_isshow" : "true"
+ },
+  {
+    "package_name":"org.freemusicplayer.musicplayernew",
+    "active_ad" : "3",
+    "random_no" : "2",
+    "firstpage_fb_random" : "2",
+    "firstpage_fb_duration" : "1500",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial" : "ca-app-pub-6113069574875874/9657506204",
+    "google_banner" : "ca-app-pub-6113069574875874/8085280526",
+    "fb_ad_interestial" : "123",
+    "fb_ad_interestial_duration" : "1000",
+    "firstpage_fb_interstrial_ad" : "357838244778689_357839861445194",
+    "fb_nativebanner" : "",
+    "is_fb_bannerad_show" : "0",
+    "active_banner_ad" : "1",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "version_code" : "10",
+    "new_version_code" : "10",
+    "message" : "Update new 11 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
+    "customad_pkg" : "bestplayer.freeplayer.videoplayer",
+    "cust_isshow" : "true"
  }
 ]
 }
