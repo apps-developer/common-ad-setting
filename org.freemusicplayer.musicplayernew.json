@@ -44,8 +44,8 @@
  },
    {
     "package_name":"org.freemusicplayer.musicplayernew",
-    "active_ad" : "1",
-    "random_no" : "2",
+    "active_ad" : "3",
+    "random_no" : "50",
     "firstpage_fb_random" : "2",
     "firstpage_fb_duration" : "1500",
     "IsAdshowOneTime" : "true",
@@ -67,8 +67,8 @@
  },
   {
     "package_name":"org.freemusicplayer.musicplayernew",
-    "active_ad" : "1",
-    "random_no" : "2",
+    "active_ad" : "3",
+    "random_no" : "50",
     "firstpage_fb_random" : "2",
     "firstpage_fb_duration" : "1500",
     "IsAdshowOneTime" : "true",
