@@ -23,7 +23,6 @@
     "customad_pkg" : "org.freemusicplayer.musicplayernew",
     "cust_isshow" : "false"
 },
-  
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
     "active_ad" : "2",
