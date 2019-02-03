@@ -25,7 +25,7 @@
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "2",
     "firstpage_fb_random" : "50",
     "firstpage_fb_duration" : "15000",
@@ -48,7 +48,7 @@
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "2",
     "firstpage_fb_random" : "50",
     "firstpage_fb_duration" : "15000",
