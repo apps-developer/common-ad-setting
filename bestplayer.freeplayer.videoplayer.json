@@ -27,7 +27,7 @@
     "package_name":"bestplayer.freeplayer.videoplayer",
     "active_ad" : "2",
     "random_no" : "2",
-    "firstpage_fb_random" : "5",
+    "firstpage_fb_random" : "2",
     "firstpage_fb_duration" : "100",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-9454363024865671/8158886387",
