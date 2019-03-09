@@ -2,7 +2,7 @@
  "info": [  
   {
     "package_name":"boyzpixphotoeditor.photoeditor.boysphotoeditor",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "firstpage_fb_duration" : "0",
@@ -11,9 +11,9 @@
     "google_banner" : "ca-app-pub-2940174465516382/2828510335",
     "fb_ad_interestial" : "819402111792493_819404318458939",
     "fb_ad_interestial_duration" : "800",
-    "fb_advance_native_adid" : "123",
+    "fb_advance_native_adid" : "819402111792493_820584021674302",
     "fb_nativebanner" : "819402111792493_819402958459075",
-    "active_banner_ad" : "1",
+    "active_banner_ad" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
     "version_code" : "1",
