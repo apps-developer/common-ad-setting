@@ -25,7 +25,7 @@
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer2019",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "firstpage_fb_duration" : "0",
@@ -36,7 +36,7 @@
     "fb_ad_interestial_duration" : "800",
     "fb_advance_native_adid" : "801105573567012_801106413566928",
     "fb_nativebanner" : "801105573567012_801107543566815",
-    "active_banner_ad" : "1",
+    "active_banner_ad" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
     "version_code" : "2",
