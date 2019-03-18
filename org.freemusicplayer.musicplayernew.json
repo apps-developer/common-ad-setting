@@ -107,8 +107,8 @@
     "version_code" : "9",
     "new_version_code" : "9",
     "message" : "Update new 2 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
-    "customad_pkg" : "bestplayer.freeplayer.videoplayer",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
+    "customad_pkg" : "music.player.musicplayernew",
     "cust_isshow" : "true"
  },
   {
@@ -131,8 +131,8 @@
     "version_code" : "10",
     "new_version_code" : "10",
     "message" : "Update new 11 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
-    "customad_pkg" : "bestplayer.freeplayer.videoplayer",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
+    "customad_pkg" : "music.player.musicplayernew",
     "cust_isshow" : "true"
  }
 ]
