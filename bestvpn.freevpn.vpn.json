@@ -119,6 +119,36 @@
     "notidesc" : "",
     "notiurl" : "",
     "notipkg" : ""
+},
+  {
+    "package_name":"bestvpn.freevpn.vpn",
+    "active_ad" : "2",
+    "random_no" : "1",
+    "fb_advance_native_skippos" : "9",
+    "firstpage_fb_duration" : "0",
+    "IsAdshowOneTime" : "false",
+    "google_ad_interestial": "",
+    "google_banner" : "",
+    "fb_ad_interestial" : "YOUR_PLACEMENT_ID",
+    "fb_ad_interestial_duration" : "500",
+    "fb_advance_native_adid" : "YOUR_PLACEMENT_ID",
+    "fb_nativebanner" : "YOUR_PLACEMENT_ID",
+    "active_banner_ad" : "2",
+    "is_fb_bannerad_show" : "2",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "is_live" : "true",
+    "new_url" : "",
+    "version_code" : "8",
+    "new_version_code" : "8",
+    "message" : "Update new 8 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "",
+    "customad_pkg" : "",
+    "cust_isshow" : "false",
+    "notiappname" : "",
+    "notidesc" : "",
+    "notiurl" : "",
+    "notipkg" : ""
 }
 ]
 }
