@@ -841,7 +841,7 @@
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
     "active_ad" : "2",
-    "random_no" : "1",
+    "random_no" : "3",
     "fb_advance_native_skippos" : "150",
     "firstpage_fb_duration" : "0",
     "IsAdshowOneTime" : "false",
@@ -874,7 +874,7 @@
    {
     "package_name":"bestplayer.freeplayer.videoplayer",
     "active_ad" : "2",
-    "random_no" : "1",
+    "random_no" : "3",
     "fb_advance_native_skippos" : "150",
     "firstpage_fb_duration" : "0",
     "IsAdshowOneTime" : "false",
@@ -907,9 +907,9 @@
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
     "active_ad" : "2",
-    "random_no" : "3",
+    "random_no" : "1",
     "fb_advance_native_skippos" : "150",
-    "firstpage_fb_duration" : "0",
+    "firstpage_fb_duration" : "1",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
     "google_banner" : "",
