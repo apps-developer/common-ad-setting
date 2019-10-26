@@ -1,0 +1,37 @@
+{
+"info": [
+ {
+    "package_name":"boyzpix.photoeditor.boysphotoeditor",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "fb_advance_native_skippos" : "200",
+    "firstpage_fb_duration" : "1",
+    "IsAdshowOneTime" : "false",
+    "google_ad_interestial": "ca-app-pub-6113069574875874/8814988359",
+    "google_banner" : "ca-app-pub-6113069574875874/8428454478",
+    "google_native_appid" : "ca-app-pub-6113069574875874~5906232918",
+    "google_native_adid" : "ca-app-pub-6113069574875874/1200701147",
+    "is_nativeadvance_active" : "2",
+    "fb_ad_interestial" : "",
+    "fb_ad_interestial_duration" : "800",
+    "fb_advance_native_adid" : "",
+    "fb_nativebanner" : "",
+    "active_banner_ad" : "2",
+    "is_fb_bannerad_show" : "2",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "is_live" : "true",
+    "new_url" : "",
+    "version_code" : "1",
+    "new_version_code" : "1",
+    "message" : "Update new 2 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "",
+    "customad_pkg" : "org.freemusicplayer.musicplayernew",
+    "cust_isshow" : "false",
+    "notiappname" : "Music Player 2019",
+    "notidesc" : "Music Player with powerful equalizer, Quick search all your music files",
+    "notiurl" : "",
+    "notipkg" : "music.player.musicplayernew"
+}
+]
+}
