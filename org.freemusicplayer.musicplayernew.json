@@ -91,9 +91,9 @@
   {
     "package_name":"org.freemusicplayer.musicplayernew",
     "active_ad" : "1",
-    "random_no" : "2",
+    "random_no" : "200",
     "firstpage_fb_random" : "2",
-    "firstpage_fb_duration" : "1500",
+    "firstpage_fb_duration" : "1800",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial" : "ca-app-pub-6113069574875874/9657506204",
     "google_banner" : "ca-app-pub-6113069574875874/8085280526",
@@ -114,7 +114,7 @@
   {
     "package_name":"org.freemusicplayer.musicplayernew",
     "active_ad" : "1",
-    "random_no" : "2",
+    "random_no" : "300",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
     "IsAdshowOneTime" : "true",
