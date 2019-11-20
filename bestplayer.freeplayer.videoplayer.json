@@ -1137,7 +1137,7 @@
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "200",
     "firstpage_fb_duration" : "1",
@@ -1170,7 +1170,7 @@
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "200",
     "firstpage_fb_duration" : "1",
