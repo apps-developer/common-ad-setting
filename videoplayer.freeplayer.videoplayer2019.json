@@ -2,7 +2,7 @@
  "info": [
    {
     "package_name":"videoplayer.freeplayer.videoplayer2019",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "20",
     "firstpage_fb_duration" : "0",
@@ -11,7 +11,7 @@
     "google_banner" : "",
     "google_native_appid" : "ca-app-pub-3672515725605801~8531564709",
     "google_native_adid" : "ca-app-pub-3672515725605801/8339993011",
-    "is_nativeadvance_active" : "2",
+    "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "",
     "fb_ad_interestial_duration" : "800",
     "fb_advance_native_adid" : "",
