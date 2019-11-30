@@ -180,7 +180,7 @@
   {
     "package_name":"org.freemusicplayer.musicplayernew",
     "active_ad" : "1",
-    "random_no" : "300",
+    "random_no" : "1",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "1",
     "IsAdshowOneTime" : "true",
@@ -213,7 +213,7 @@
   {
     "package_name":"org.freemusicplayer.musicplayernew",
     "active_ad" : "1",
-    "random_no" : "300",
+    "random_no" : "1",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "1",
     "IsAdshowOneTime" : "true",
