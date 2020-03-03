@@ -47,7 +47,7 @@
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "YOUR_PLACEMENT_ID",
     "fb_ad_interestial_duration" : "800",
-    "fb_advance_native_adid" : "",
+    "fb_advance_native_adid" : "YOUR_PLACEMENT_ID",
     "fb_nativebanner" : "YOUR_PLACEMENT_ID",
     "active_banner_ad" : "1",
     "is_fb_bannerad_show" : "2",
