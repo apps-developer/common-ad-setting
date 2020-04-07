@@ -1361,10 +1361,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Music Player 2019",
-    "notidesc" : "",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Gallery - Dublicate Photo Remover & Vault",
+    "notidesc" : "Gallery is best for remove Unused Storage and Photo Vault",
+    "notiurl" : "https://play.google.com/store/apps/details?id=galleryapps.galleryalbum.gallery",
+    "notipkg" : "galleryapps.galleryalbum.gallery"
 }
 ]
 }
