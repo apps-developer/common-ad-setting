@@ -1361,10 +1361,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Gallery - Dublicate Photo Remover & Vault",
-    "notidesc" : "Gallery is best for remove Unused Storage and Photo Vault",
-    "notiurl" : "https://lh3.googleusercontent.com/dMHJ7fcLbp3RO9-uJCiCXWEkcPpoEyJACeOyJNVfoTO0E6rr6VJL9DmF2KHLtQw4gaM=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery"
+    "notiappname" : "Music Player & Samsung Music Player",
+    "notidesc" : "Music Player Pro is one of the best app for music and audio player for Android",
+    "notiurl" : "https://lh3.googleusercontent.com/A4Y7pi3vcxCQYyzqoRptAmXqqOyAigPDRsUetb0UGJ4nkeZzk7QHt35stH4WI1k4ja8=s500",
+    "notipkg" : "org.freemusicplayer.musicplayernew"
 }
 ]
 }
