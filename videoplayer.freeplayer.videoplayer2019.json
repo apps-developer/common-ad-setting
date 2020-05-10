@@ -70,7 +70,7 @@
     "package_name":"videoplayer.freeplayer.videoplayer2019",
     "active_ad" : "1",
     "random_no" : "1",
-    "fb_advance_native_skippos" : "2",
+    "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "0",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
