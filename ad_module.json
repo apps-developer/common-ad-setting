@@ -1,12 +1,6 @@
 {
   "data": [
     {
-      "id": "48897729256",
-      "title": "Gallery",
-      "app_id": "galleryapps.galleryalbum.gallery",
-      "url_m": "https://live.staticflickr.com/65535/48897729256_63044c6d07.jpg"
-    },
-    {
       "id": "48897925847",
       "title": "Music Player",
       "app_id": "org.freemusicplayer.musicplayernew",
