@@ -9,6 +9,13 @@
     },
     {
       "id": "48897925847",
+      "title": "Gallery",
+      "app_id": "galleryapps.galleryalbum.gallery2019",
+      "url_m": "https://lh3.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
+      "coin": "40"
+    },
+    {
+      "id": "48897925847",
       "title": "Music Player",
       "app_id": "org.freemusicplayer.musicplayernew",
       "url_m": "https://live.staticflickr.com/65535/48897925847_370f2ddab9.jpg",
