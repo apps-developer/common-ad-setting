@@ -1362,7 +1362,7 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Gallery",
-    "notidesc" : ",
+    "notidesc" : "",
     "notiurl" : "",
     "notipkg" : ""
 },
@@ -1396,7 +1396,7 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Gallery",
-    "notidesc" : ",
+    "notidesc" : "",
     "notiurl" : "",
     "notipkg" : ""
 },
@@ -1430,7 +1430,7 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Gallery",
-    "notidesc" : ",
+    "notidesc" : "",
     "notiurl" : "",
     "notipkg" : ""
 }
