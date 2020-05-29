@@ -100,7 +100,7 @@
     "notipkg" : ""
 },
   {
-    "package_name":"bestplayer.freeplayer.videoplayer2019",
+    "package_name":"videoplayer.freeplayer.videoplayer2019",
     "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "200",
