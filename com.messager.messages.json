@@ -1,0 +1,37 @@
+{
+ "info": [
+  {
+    "package_name":"com.messager.messages",
+    "active_ad" : "1",
+    "random_no" : "1",
+    "fb_advance_native_skippos" : "1",
+    "firstpage_fb_duration" : "1",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
+    "google_banner" : "ca-app-pub-3940256099942544/6300978111",
+    "google_native_appid" : "ca-app-pub-3940256099942544~3347511713",
+    "google_native_adid" : "ca-app-pub-3940256099942544/2247696110",
+    "is_nativeadvance_active" : "1",
+    "fb_ad_interestial" : "VID_HD_9_16_39S_APP_INSTALL_YOUR_PLACEMENT_ID",
+    "fb_ad_interestial_duration" : "0",
+    "fb_advance_native_adid" : "VID_HD_9_16_39S_APP_INSTALL_YOUR_PLACEMENT_ID",
+    "fb_nativebanner" : "",
+    "active_banner_ad" : "1",
+    "is_fb_bannerad_show" : "2",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "is_live" : "true",
+    "new_url" : "",
+    "version_code" : "2",
+    "new_version_code" : "2",
+    "message" : "Update new Version is available to download. Remove Ad without spend money and with latest feature",
+    "custom_adurl" : "",
+    "customad_pkg" : "",
+    "cust_isshow" : "true",
+    "notiappname" : "Gallery",
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://lh3.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+ }
+  ]
+}
