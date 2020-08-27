@@ -14,6 +14,13 @@
       "url_m": "https://lh3.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
       "coin": "40"
     },
+     {
+      "id": "48897925866",
+      "title": "Messages",
+      "app_id": "com.messager.messages",
+      "url_m": "https://play-lh.googleusercontent.com/g94_tsJGjnOmmNpevB03yhStJjrktuDLDcnHGEenQXa_g7-Sf_-rEtIELfj0C5oLwQE=s512",
+      "coin": "40"
+    },
     {
       "id": "48897925847",
       "title": "Music Player",
@@ -21,40 +28,13 @@
       "url_m": "https://live.staticflickr.com/65535/48897925847_370f2ddab9.jpg",
       "coin": "35"
     },
-    {
-      "id": "48897198453",
-      "title": "Photo Pics Maker",
-      "app_id": "com.scrapbook.photocollage.collagemaker.photogrid",
-      "url_m": "https://live.staticflickr.com/65535/48897198453_36a71dd3c8.jpg",
-      "coin": "30"
-    },
-    {
-      "id": "48897198753",
-      "title": "Photo Cutter",
-      "app_id": "photo.background.backgrounderaser",
-      "url_m": "https://live.staticflickr.com/65535/48897198753_206cae41ba.jpg",
-      "coin": "20"
-    },
-    {
-      "id": "48897732351",
-      "title": "Photo Background Remover",
-      "app_id": "background.remover.photobackgroundremover",
-      "url_m": "https://live.staticflickr.com/65535/48897732351_3f444b352f.jpg",
-      "coin": "30"
-    },
-    {
+   {
       "id": "48897732681",
       "title": "VPN",
       "app_id": "bestvpn.freevpn.vpn",
       "url_m": "https://live.staticflickr.com/65535/48897732681_fbc88f9cb2.jpg",
        "coin": "25"
-    },
-    {
-      "id": "48968582646",
-      "title": "BoyzPix - Photo Editor & Beard Maker",
-      "app_id": "boyzpix.photoeditor.boysphotoeditor",
-      "url_m": "https://live.staticflickr.com/65535/48968582646_75aa79b84f.jpg",
-      "coin": "20"
     }
+   
   ]
 }
