@@ -5,27 +5,27 @@
       "title": "Video Player",
       "app_id": "bestplayer.freeplayer.videoplayer",
       "url_m": "https://lh3.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
-      "coin": "40"
+      "coin": "35"
     },
     {
       "id": "48897925847",
       "title": "Gallery",
       "app_id": "galleryapps.galleryalbum.gallery2019",
       "url_m": "https://lh3.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
-      "coin": "40"
+      "coin": "35"
     },
      {
       "id": "48897925866",
       "title": "Messages",
       "app_id": "com.messager.messages",
       "url_m": "https://play-lh.googleusercontent.com/g94_tsJGjnOmmNpevB03yhStJjrktuDLDcnHGEenQXa_g7-Sf_-rEtIELfj0C5oLwQE=s512",
-      "coin": "40"
+      "coin": "35"
     },
     {
       "id": "48897925847",
-      "title": "Music Player",
-      "app_id": "org.freemusicplayer.musicplayernew",
-      "url_m": "https://live.staticflickr.com/65535/48897925847_370f2ddab9.jpg",
+      "title": "Samsung Music Player",
+      "app_id": "music.player.musicplayernew",
+      "url_m": "https://lh3.googleusercontent.com/R6p5rpG9SaVZEFT09_2gXG7_XGELCpaeUl7DLLrWWXG_Dr4K7J8NK1DSn83MImWlV8E=s256",
       "coin": "35"
     },
    {
