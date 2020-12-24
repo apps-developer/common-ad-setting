@@ -1362,9 +1362,9 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Gallery",
-    "notidesc" : "Gallery - Phone Storage App Beautiful 3D gallery with latest graphics instead of old one",
-    "notiurl" : "https://play-lh.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+    "notidesc" : "Latest Messenger for messages, sms, chat and text - the best custom Messages & call app",
+    "notiurl" : "https://play-lh.googleusercontent.com/g94_tsJGjnOmmNpevB03yhStJjrktuDLDcnHGEenQXa_g7-Sf_-rEtIELfj0C5oLwQE=s512",
+    "notipkg" : "com.messager.messages"
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
