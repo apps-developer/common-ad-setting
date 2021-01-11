@@ -1557,7 +1557,7 @@
     "package_name":"bestplayer.freeplayer.videoplayer",
     "active_ad" : "1",
     "random_no" : "8",
-    "fb_advance_native_skippos" : "10",
+    "fb_advance_native_skippos" : "15",
     "firstpage_fb_duration" : "2500",
     "IsAdshowOneTime" : "false",
     "google_ad_reawrdad": "",
