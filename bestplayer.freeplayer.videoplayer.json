@@ -1595,7 +1595,7 @@
    {
     "package_name":"bestplayer.freeplayer.videoplayer",
     "active_ad" : "1",
-    "random_no" : "10",
+    "random_no" : "15",
     "fb_advance_native_skippos" : "15",
     "firstpage_fb_duration" : "2500",
     "IsAdshowOneTime" : "false",
@@ -1634,7 +1634,7 @@
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
     "active_ad" : "1",
-    "random_no" : "10",
+    "random_no" : "15",
     "fb_advance_native_skippos" : "15",
     "firstpage_fb_duration" : "2500",
     "IsAdshowOneTime" : "false",
