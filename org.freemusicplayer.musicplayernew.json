@@ -389,9 +389,9 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Messages",
-    "notidesc" : "Messages is the most beautiful message. Replace your old and boring messege!",
-    "notiurl" : "https://lh3.googleusercontent.com/g94_tsJGjnOmmNpevB03yhStJjrktuDLDcnHGEenQXa_g7-Sf_-rEtIELfj0C5oLwQE=s512",
-    "notipkg" : "com.messager.messages"
+    "notidesc" : "",
+    "notiurl" : "",
+    "notipkg" : ""
 }
 ]
 }
