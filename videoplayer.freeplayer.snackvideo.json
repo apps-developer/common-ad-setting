@@ -1,0 +1,43 @@
+{
+ "info": [
+     {
+    "package_name":"videoplayer.freeplayer.snackvideo",
+    "active_ad" : "1",
+    "random_no" : "15",
+    "fb_advance_native_skippos" : "15",
+    "firstpage_fb_duration" : "2500",
+    "IsAdshowOneTime" : "false",
+    "google_ad_reawrdad": "ca-app-pub-3023927581363861/5703070432",
+    "google_ad_interestial": "ca-app-pub-3023927581363861/6824580419",
+    "google_banner" : "ca-app-pub-3023927581363861/9904564548",
+    "google_native_appid" : "ca-app-pub-3023927581363861~3188587733",
+    "google_native_adid" : "ca-app-pub-3023927581363861/7278401209",
+    "is_nativeadvance_active" : "1",
+    "fb_ad_interestial" : "",
+    "fb_ad_interestial_duration" : "0",
+    "fb_advance_native_adid" : "",
+    "fb_nativebanner" : "",
+    "active_banner_ad" : "1",
+    "is_fb_bannerad_show" : "2",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "is_live" : "true",
+    "new_url" : "",
+    "version_code" : "2",
+    "new_version_code" : "2",
+    "rate_counter" : "1",
+    "rate_star_value" : "4",
+    "product_id" : "",
+    "license_key" : "",
+    "message" : "Update new 2 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "",
+    "customad_pkg" : "",
+    "cust_isshow" : "false",
+    "notiappname" : "Messages",
+    "notiappname" : "Gallery",
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://play-lh.googleusercontent.com/j7sl7SUIfBOGFWEdNQdsxDvdW7frPvG-MEDzdxpNkfwUR6YD4FWVuVJ538ZqFXAO7Gro=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+}
+  ]
+ }
