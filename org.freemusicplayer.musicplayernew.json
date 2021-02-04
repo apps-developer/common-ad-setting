@@ -434,10 +434,10 @@
   {
     "package_name":"org.freemusicplayer.musicplayernew",
     "active_ad" : "1",
-    "random_no" : "1",
+    "random_no" : "50",
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "2000",
-    "IsAdshowOneTime" : "true",
+    "IsAdshowOneTime" : "false",
     "google_ad_reawrdad": "ca-app-pub-6113069574875874/7232404444",
     "google_ad_interestial": "ca-app-pub-6113069574875874/9657506204",
     "google_banner" : "ca-app-pub-6113069574875874/8085280526",
@@ -445,7 +445,7 @@
     "google_native_adid" : "",
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "",
-    "fb_ad_interestial_duration" : "800",
+    "fb_ad_interestial_duration" : "500",
     "fb_advance_native_adid" : "",
     "fb_nativebanner" : "",
     "active_banner_ad" : "1",
@@ -469,5 +469,5 @@
     "notiurl" : "https://lh3.googleusercontent.com/g94_tsJGjnOmmNpevB03yhStJjrktuDLDcnHGEenQXa_g7-Sf_-rEtIELfj0C5oLwQE=s512",
     "notipkg" : "com.messager.messages" 
 }
-]
+] 
 } 
