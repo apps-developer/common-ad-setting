@@ -434,10 +434,10 @@
   {
     "package_name":"org.freemusicplayer.musicplayernew",
     "active_ad" : "1",
-    "random_no" : "15",
+    "random_no" : "1",
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "2000",
-    "IsAdshowOneTime" : "false",
+    "IsAdshowOneTime" : "true",
     "google_ad_reawrdad": "ca-app-pub-6113069574875874/7232404444",
     "google_ad_interestial": "ca-app-pub-6113069574875874/9657506204",
     "google_banner" : "ca-app-pub-6113069574875874/8085280526",
@@ -470,4 +470,4 @@
     "notipkg" : "com.messager.messages" 
 }
 ]
-}
+} 
