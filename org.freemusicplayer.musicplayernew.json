@@ -465,9 +465,9 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Messages",
-    "notidesc" : "Messages is the most beautiful message. Replace your old and boring messege!",
-    "notiurl" : "https://lh3.googleusercontent.com/g94_tsJGjnOmmNpevB03yhStJjrktuDLDcnHGEenQXa_g7-Sf_-rEtIELfj0C5oLwQE=s512",
-    "notipkg" : "com.messager.messages" 
+    "notidesc" : "#No 1 Gallery is A fast, light and private HD photo gallery and photo manager app",
+    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019" 
 },
    {
     "package_name":"org.freemusicplayer.musicplayernew",
@@ -503,9 +503,9 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Messages",
-    "notidesc" : "Messages is the most beautiful message. Replace your old and boring messege!",
-    "notiurl" : "https://lh3.googleusercontent.com/g94_tsJGjnOmmNpevB03yhStJjrktuDLDcnHGEenQXa_g7-Sf_-rEtIELfj0C5oLwQE=s512",
-    "notipkg" : "com.messager.messages" 
+    "notidesc" : "#No 1 Gallery is A fast, light and private HD photo gallery and photo manager app",
+    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019" 
 }
 ] 
 } 
