@@ -24,7 +24,7 @@
     "cust_isshow" : "false"
  },
   {
-    "package_name":"org.freemusicplayer.musicplayernew",
+    "package_name":"com.musicplayer",
     "active_ad" : "1",
     "random_no" : "50",
     "fb_advance_native_skippos" : "1",
