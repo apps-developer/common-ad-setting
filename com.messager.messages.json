@@ -451,19 +451,19 @@
     "is_live" : "true",
     "new_url" : "",
     "version_code" : "24",
-    "new_version_code" : "25",
+    "new_version_code" : "24",
     "rate_counter" : "1",
     "rate_star_value" : "4",
     "product_id" : "",
     "license_key" : "",
-    "message" : "Update new 7 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "message" : "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Gallery",
-    "notidesc" : "Full HD Photo Gallery",
-    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+    "notiappname" : "",
+    "notidesc" : "",
+    "notiurl" : "",
+    "notipkg" : ""
 }
  ]
 }
