@@ -13,7 +13,7 @@
     "google_native_appid" : "",
     "google_native_adid" : "",
     "google_open_adid" : "",
-    "request_gap_interstrial" : "8000",
+    "request_gap_interstrial" : "5000",
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "",
     "fb_ad_interestial_duration" : "0",
