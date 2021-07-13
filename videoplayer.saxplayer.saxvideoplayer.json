@@ -32,13 +32,14 @@
     "product_id" : "",
     "license_key" : "",
     "message" : "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "removead_link" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/adremove_module.json",
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Video Player",
     "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
-    "notipkg" : "bestplayer.freeplayer.videoplayer"
+    "notiurl" : "",
+    "notipkg" : ""
 }
   ]
  }
