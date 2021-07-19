@@ -540,10 +540,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Gallery",
-    "notidesc" : "Full HD Photo Gallery",
-    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019" 
+    "notiappname" : "Sax Video Player",
+    "notidesc" : "#1 Ranked Sax Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/3DbT7Yq8gGaZNUU7tZI0-XVvuhl3m4VF-NzEkJ2meSTELNp4RqRYuto87DIN2PvibLK4=s512",
+    "notipkg" : "videoplayer.saxplayer.saxvideoplayer"
 },
   {
     "package_name":"org.freemusicplayer.musicplayernew",
@@ -579,10 +579,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Gallery",
-    "notidesc" : "Full HD Photo Gallery",
-    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019" 
+    "notiappname" : "Sax Video Player",
+    "notidesc" : "#1 Ranked Sax Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/3DbT7Yq8gGaZNUU7tZI0-XVvuhl3m4VF-NzEkJ2meSTELNp4RqRYuto87DIN2PvibLK4=s512",
+    "notipkg" : "videoplayer.saxplayer.saxvideoplayer"
 },
   {
     "package_name":"org.freemusicplayer.musicplayernew",
@@ -618,10 +618,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Gallery",
-    "notidesc" : "Full HD Photo Gallery",
-    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019" 
+    "notiappname" : "Sax Video Player",
+    "notidesc" : "#1 Ranked Sax Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/3DbT7Yq8gGaZNUU7tZI0-XVvuhl3m4VF-NzEkJ2meSTELNp4RqRYuto87DIN2PvibLK4=s512",
+    "notipkg" : "videoplayer.saxplayer.saxvideoplayer" 
 }
 ] 
 } 
