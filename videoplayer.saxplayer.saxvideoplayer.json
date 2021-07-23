@@ -45,7 +45,7 @@
     "package_name":"videoplayer.saxplayer.saxvideoplayer",
     "active_ad" : "1",
     "random_no" : "5",
-    "fb_advance_native_skippos" : "10",
+    "fb_advance_native_skippos" : "20",
     "firstpage_fb_duration" : "2500",
     "IsAdshowOneTime" : "true",
     "google_ad_reawrdad" : " 	ca-app-pub-3940256099942544/5224354917",
