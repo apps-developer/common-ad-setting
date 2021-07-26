@@ -36,10 +36,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Video Player",
-    "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Story Saver - Video Downloader & Status Saver",
+    "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
+    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
+    "notipkg" : "story.saver.instagramstorysaver" 
 },
   {
     "package_name":"videoplayer.saxplayer.saxvideoplayer",
@@ -77,10 +77,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Video Player",
-    "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Story Saver - Video Downloader & Status Saver",
+    "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
+    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
+    "notipkg" : "story.saver.instagramstorysaver" 
 }
   ]
  }
