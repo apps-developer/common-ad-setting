@@ -1660,10 +1660,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Samsung Music Player",
-    "notidesc" : "Samsung Music Player is one of the best app for music and audio player for Android",
-    "notiurl" : "https://play-lh.googleusercontent.com/A4Y7pi3vcxCQYyzqoRptAmXqqOyAigPDRsUetb0UGJ4nkeZzk7QHt35stH4WI1k4ja8=s512",
-    "notipkg" : "org.freemusicplayer.musicplayernew"
+    "notiappname" : "Story Saver - Video Downloader & Status Saver",
+    "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
+    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
+    "notipkg" : "story.saver.instagramstorysaver" 
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
@@ -1698,10 +1698,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Samsung Music Player",
-    "notidesc" : "Samsung Music Player is one of the best app for music and audio player for Android",
-    "notiurl" : "https://play-lh.googleusercontent.com/A4Y7pi3vcxCQYyzqoRptAmXqqOyAigPDRsUetb0UGJ4nkeZzk7QHt35stH4WI1k4ja8=s512",
-    "notipkg" : "org.freemusicplayer.musicplayernew"
+    "notiappname" : "Story Saver - Video Downloader & Status Saver",
+    "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
+    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
+    "notipkg" : "story.saver.instagramstorysaver" 
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
@@ -1737,10 +1737,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Samsung Music Player",
-    "notidesc" : "Samsung Music Player is one of the best app for music and audio player for Android",
-    "notiurl" : "https://play-lh.googleusercontent.com/A4Y7pi3vcxCQYyzqoRptAmXqqOyAigPDRsUetb0UGJ4nkeZzk7QHt35stH4WI1k4ja8=s512",
-    "notipkg" : "org.freemusicplayer.musicplayernew"
+    "notiappname" : "Story Saver - Video Downloader & Status Saver",
+    "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
+    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
+    "notipkg" : "story.saver.instagramstorysaver" 
 }
 ]
 }
