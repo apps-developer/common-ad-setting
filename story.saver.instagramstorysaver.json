@@ -118,10 +118,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Video Player",
-    "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Sax Video Player",
+    "notidesc" : "#1 Ranked Sax Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/3DbT7Yq8gGaZNUU7tZI0-XVvuhl3m4VF-NzEkJ2meSTELNp4RqRYuto87DIN2PvibLK4=s512",
+    "notipkg" : "videoplayer.saxplayer.saxvideoplayer"
 },
    {
     "package_name":"story.saver.instagramstorysaver",
@@ -159,10 +159,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Video Player",
-    "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Sax Video Player",
+    "notidesc" : "#1 Ranked Sax Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/3DbT7Yq8gGaZNUU7tZI0-XVvuhl3m4VF-NzEkJ2meSTELNp4RqRYuto87DIN2PvibLK4=s512",
+    "notipkg" : "videoplayer.saxplayer.saxvideoplayer"
 }
   ]
  }
