@@ -30,9 +30,16 @@
     },
    {
       "id": "48897732681",
-      "title": "VPN",
-      "app_id": "bestvpn.freevpn.vpn",
-      "url_m": "https://live.staticflickr.com/65535/48897732681_fbc88f9cb2.jpg",
+      "title": "Instagram Story Saver - Whatsapp Status Saver",
+      "app_id": "story.saver.instagramstorysaver",
+      "url_m": "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
+       "coin": "25"
+    },
+     {
+      "id": "48897732779",
+      "title": "Video Player - All Format HD Video Player",
+      "app_id": "videoplayer.saxplayer.saxvideoplayer",
+      "url_m": "https://play-lh.googleusercontent.com/QBtq7wPvtohvLLSnp6NZ6GwiorlncT1kHieahhsA2TZfTvbabqgO4Yw9pG3P3ujVmbI=s512",
        "coin": "25"
     }
    
