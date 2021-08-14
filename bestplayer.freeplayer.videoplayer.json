@@ -1860,10 +1860,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Story Saver - Video Downloader & Status Saver",
-    "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
-    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
-    "notipkg" : "story.saver.instagramstorysaver" 
+    "notiappname" : "Cam Scanner",
+    "notidesc" : "Document Scanner - QR Code & Barcode Scanner",
+    "notiurl" : "https://play-lh.googleusercontent.com/yEhrW29KJ8xVJ-rwstWZMqRWRmM25hT3aGbFY5GogKXWwtvqaWbKvAPRERJexeXeWf26=s512",
+    "notipkg" : "document.scanner.docscanner"
 }
 ]
 }
