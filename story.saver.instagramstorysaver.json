@@ -200,10 +200,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Sax Video Player",
-    "notidesc" : "#1 Ranked Sax Video Player in android",
-    "notiurl" : "https://play-lh.googleusercontent.com/3DbT7Yq8gGaZNUU7tZI0-XVvuhl3m4VF-NzEkJ2meSTELNp4RqRYuto87DIN2PvibLK4=s512",
-    "notipkg" : "videoplayer.saxplayer.saxvideoplayer"
+    "notiappname" : "Cam Scanner",
+    "notidesc" : "Document Scanner - QR Code & Barcode Scanner",
+    "notiurl" : "https://play-lh.googleusercontent.com/yEhrW29KJ8xVJ-rwstWZMqRWRmM25hT3aGbFY5GogKXWwtvqaWbKvAPRERJexeXeWf26=s512",
+    "notipkg" : "document.scanner.docscanner"
 }
   ]
  }
