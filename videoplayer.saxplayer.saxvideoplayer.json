@@ -165,7 +165,7 @@
     "notipkg" : "" 
 },
   {
-    "package_name":"bestplayer.freeplayer.videoplayer",
+    "package_name":"videoplayer.saxplayer.saxvideoplayer",
     "active_ad" : "1",
     "random_no" : "4",
     "fb_advance_native_skippos" : "15",
