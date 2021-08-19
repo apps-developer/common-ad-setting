@@ -167,7 +167,7 @@
   {
     "package_name":"videoplayer.saxplayer.saxvideoplayer",
     "active_ad" : "1",
-    "random_no" : "4",
+    "random_no" : "100",
     "fb_advance_native_skippos" : "15",
     "firstpage_fb_duration" : "2500",
     "IsAdshowOneTime" : "false",
