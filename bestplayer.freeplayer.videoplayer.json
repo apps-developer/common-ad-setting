@@ -1780,8 +1780,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Story Saver - Video Downloader & Status Saver",
     "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
-    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
-    "notipkg" : "story.saver.instagramstorysaver" 
+    "notiurl" : "",
+    "notipkg" : "" 
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
@@ -1821,8 +1821,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Gallery",
     "notidesc" : "Gallery is best for photo vault & Whatsapp status saver",
-    "notiurl" : "https://lh3.googleusercontent.com/yqI6j3d5nbOOB5W5uQzDXw96dbNns3Dne3SDgYfyg8TdbnzX5C2ee6z64lr17uJMGeM=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+    "notiurl" : "",
+    "notipkg" : ""
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",
@@ -1862,8 +1862,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Gallery",
     "notidesc" : "Gallery is best for photo vault & Whatsapp status saver",
-    "notiurl" : "https://lh3.googleusercontent.com/yqI6j3d5nbOOB5W5uQzDXw96dbNns3Dne3SDgYfyg8TdbnzX5C2ee6z64lr17uJMGeM=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+    "notiurl" : "",
+    "notipkg" : ""
 }
 ]
 }
