@@ -23,9 +23,9 @@
     },
     {
       "id": "48897925847",
-      "title": "Samsung Music Player",
-      "app_id": "org.freemusicplayer.musicplayernew",
-      "url_m": "https://play-lh.googleusercontent.com/A4Y7pi3vcxCQYyzqoRptAmXqqOyAigPDRsUetb0UGJ4nkeZzk7QHt35stH4WI1k4ja8=s512",
+      "title": "Music Player",
+      "app_id": "music.player.musicplayernew",
+      "url_m": "https://play-lh.googleusercontent.com/9TYl5lpBqvRSYdPbxOG2CjcOfyUNfu3G7hVLjBwrx9qhc6QYPIfM4kBhriiU1FyORt4=s512",
       "coin": "35"
     },
    {
@@ -33,13 +33,6 @@
       "title": "Instagram Story Saver - Whatsapp Status Saver",
       "app_id": "story.saver.instagramstorysaver",
       "url_m": "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
-       "coin": "35"
-    },
-     {
-      "id": "48897732779",
-      "title": "Video Player - All Format HD Video Player",
-      "app_id": "videoplayer.saxplayer.saxvideoplayer",
-      "url_m": "https://play-lh.googleusercontent.com/QBtq7wPvtohvLLSnp6NZ6GwiorlncT1kHieahhsA2TZfTvbabqgO4Yw9pG3P3ujVmbI=s512",
        "coin": "35"
     }
    
