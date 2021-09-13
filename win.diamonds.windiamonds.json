@@ -48,7 +48,7 @@
     "fb_advance_native_skippos" : "15",
     "firstpage_fb_duration" : "3000",
     "IsAdshowOneTime" : "false",
-    "IsAdshowOnBack" : "false",
+    "IsAdshowOnBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "",
     "google_banner" : "ca-app-pub-3940256099942544/6300978111",
@@ -78,8 +78,8 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Cam Scanner",
-    "notidesc" : "",
+    "notiappname" : "Gallery",
+    "notidesc" : "#1 Ranked Video Player in android",
     "notiurl" : "",
     "notipkg" : ""
   }
