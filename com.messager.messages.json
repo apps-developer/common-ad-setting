@@ -467,8 +467,8 @@
 },
   {
     "package_name":"com.messager.messages",
-    "active_ad" : "1",
-    "random_no" : "3",
+    "active_ad" : "4",
+    "random_no" : "2",
     "fb_advance_native_skippos" : "10",
     "firstpage_fb_duration" : "3000",
     "IsAdshowOneTime" : "true",
