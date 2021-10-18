@@ -467,7 +467,7 @@
 },
   {
     "package_name":"com.messager.messages",
-    "active_ad" : "1",
+    "active_ad" : "3",
     "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "firstpage_fb_duration" : "3000",
@@ -489,7 +489,7 @@
     "applovin_interstrial" : "86776905e6c98b96",
     "applovin_banner" : "dc9f8fa963d833bd",
     "applovin_native_advance" : "",
-    "active_banner_ad" : "1",
+    "active_banner_ad" : "3",
     "is_fb_bannerad_show" : "3",
     "is_update" : "false",
     "is_forcefully": "false",
