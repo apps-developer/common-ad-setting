@@ -3,8 +3,8 @@
     {
     "package_name":"video.status.videostatus",
     "active_ad" : "1",
-    "random_no" : "1",
-    "fb_advance_native_skippos" : "2",
+    "random_no" : "3",
+    "fb_advance_native_skippos" : "8",
     "firstpage_fb_duration" : "3000",
     "IsAdshowOneTime" : "false",
     "google_ad_reawrdad" : "ca-app-pub-3940256099942544/5224354917",
