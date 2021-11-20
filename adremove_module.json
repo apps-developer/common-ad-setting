@@ -14,14 +14,8 @@
       "url_m": "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
       "coin": "35"
     },
-     {
-      "id": "48897925866",
-      "title": "Messages",
-      "app_id": "com.messager.messages",
-      "url_m": "https://play-lh.googleusercontent.com/g94_tsJGjnOmmNpevB03yhStJjrktuDLDcnHGEenQXa_g7-Sf_-rEtIELfj0C5oLwQE=s512",
-      "coin": "35"
-    },
-    {
+     
+   {
       "id": "48897925847",
       "title": "Music Player",
       "app_id": "music.player.musicplayernew",
