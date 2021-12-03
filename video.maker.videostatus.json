@@ -48,7 +48,7 @@
   {
     "package_name":"video.maker.videostatus",
     "active_ad" : "1",
-    "random_no" : "3",
+    "random_no" : "4",
     "fb_advance_native_skippos" : "8",
     "firstpage_fb_duration" : "3000",
     "IsAdshowOneTime" : "false",
@@ -58,7 +58,7 @@
     "google_native_appid" : "ca-app-pub-3672515725605801~5199536035",
     "google_native_adid" : "ca-app-pub-3672515725605801/4987976563",
     "google_open_adid" : "ca-app-pub-3672515725605801/7422568211",
-    "request_gap_interstrial" : "6000",
+    "request_gap_interstrial" : "10000",
     "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
