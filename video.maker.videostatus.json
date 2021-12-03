@@ -48,7 +48,7 @@
   {
     "package_name":"video.maker.videostatus",
     "active_ad" : "1",
-    "random_no" : "4",
+    "random_no" : "3",
     "fb_advance_native_skippos" : "8",
     "firstpage_fb_duration" : "3000",
     "IsAdshowOneTime" : "false",
