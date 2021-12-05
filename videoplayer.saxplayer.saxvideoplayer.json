@@ -222,7 +222,7 @@
     "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
-    "adex_advance_native_adid" : "",
+    "adex_advance_native_adid" : ".",
     "adex_nativebanner" : " ",
     "adex_open_adid" : "",
     "applovin_interstrial" : "ecbac695e76fee31",
