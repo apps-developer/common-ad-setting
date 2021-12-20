@@ -90,14 +90,14 @@
     "notiurl" : "https://play.google.com/store/apps/details?id=galleryapps.galleryalbum.gallery2019",
     "notipkg" : "galleryapps.galleryalbum.gallery2019"
 },
-  {
-    "package_name":"video.maker.videostatus",
+   {
+     "package_name":"video.maker.videostatus",
     "active_ad" : "2",
     "random_no" : "1",
-    "fb_advance_native_skippos" : "8",
+    "fb_advance_native_skippos" : "10",
+    "splashscreen_duration" : "3000",
     "isappOpen_showin_splash" : "2",
-    "firstpage_fb_duration" : "3000",
-    "IsAdshowOneTime" : "false",
+    "IsAdshowOneTime" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "",
     "google_banner" : "",
@@ -131,10 +131,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Gallery - Remove Dublicate Photo & Photo Editor",
-    "notidesc" : "5M+ User Trusted Gallery in android",
-    "notiurl" : "https://play.google.com/store/apps/details?id=galleryapps.galleryalbum.gallery2019",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+    "notiappname" : "All Format Video Player",
+    "notidesc" : "#1 Ranked Sax Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/QBtq7wPvtohvLLSnp6NZ6GwiorlncT1kHieahhsA2TZfTvbabqgO4Yw9pG3P3ujVmbI=s512",
+    "notipkg" : "videoplayer.saxplayer.saxvideoplayer"
 }
    ]
 }
