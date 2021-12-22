@@ -92,7 +92,7 @@
 },
    {
      "package_name":"video.maker.videostatus",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3000",
