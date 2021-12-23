@@ -319,7 +319,7 @@
     "adex_open_adid" : "",
     "applovin_interstrial" : "ecbac695e76fee31",
     "applovin_banner" : "556b24e4e39aa6d8",
-    "applovin_native_advance" : ".",
+    "applovin_native_advance" : "2f99ed0aaf5dcda8",
     "active_banner_ad" : "1",
     "is_fb_bannerad_show" : "1",
     "is_update" : "false",
@@ -337,10 +337,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Story Saver - Video Downloader & Status Saver",
-    "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
-    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
-    "notipkg" : "story.saver.instagramstorysaver" 
+    "notiappname" : "Gallery - Remove Dublicate Photo & Photo Editor",
+    "notidesc" : "5M+ User Trusted Gallery in android",
+    "notiurl" : "https://play.google.com/store/apps/details?id=galleryapps.galleryalbum.gallery2019",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019" 
 }
   ]
  }
