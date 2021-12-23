@@ -307,7 +307,7 @@
     "google_ad_reawrdad" : "",
     "google_ad_interestial" : "/6499/example/interstitial",
     "google_banner" : "/6499/example/banner",
-    "google_native_appid" : "ca-app-pub-3940256099942544~3347511713",
+    "google_native_appid" : ".",
     "google_native_adid" : "/6499/example/native",
     "google_open_adid" : "/6499/example/app-open",
     "request_gap_interstrial" : "9000",
