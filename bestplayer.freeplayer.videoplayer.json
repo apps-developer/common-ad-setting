@@ -2001,7 +2001,7 @@
   {
     "package_name":"bestplayer.freeplayer.videoplayer",  
     "active_ad" : "2",
-    "random_no" : "6",
+    "random_no" : "2",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3000",
     "isappOpen_showin_splash" : "2",
@@ -2012,7 +2012,7 @@
     "google_native_appid" : "",
     "google_native_adid" : "",
     "google_open_adid" : "",
-    "request_gap_interstrial" : "7000",
+    "request_gap_interstrial" : "0",
     "is_nativeadvance_active" : "2",
     "adex_ad_interestial" : "/22405025169,22602898820/bestplayer.freeplayer.videoplayer.Interstitial",
     "adex_ad_interestial_duration" : "1500",
