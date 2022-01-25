@@ -95,8 +95,8 @@
     "google_native_appid" : "ca-app-pub-3023927581363861~4228887414",
     "google_native_adid" : "",
     "google_open_adid" : "ca-app-pub-3023927581363861/8377947925",
-    "request_gap_interstrial" : "12000
-    "is_nativeadvance_active" : "1,
+    "request_gap_interstrial" : "12000"
+    "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
     "adex_advance_native_adid" : "",
@@ -105,7 +105,7 @@
     "applovin_interstrial" : "",
     "applovin_banner" : "",
     "applovin_native_advance" : "",
-    "active_banner_ad" : "1,
+    "active_banner_ad" : "1",
     "is_fb_bannerad_show" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
