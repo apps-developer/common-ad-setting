@@ -81,7 +81,7 @@
     "notipkg" : ""
 },
   {
-    "package_name":"com.gallerypp.gallery.gallery",
+    "package_name":"com.gallerypp.gallery.gallery",  
     "active_ad" : "1",
     "random_no" : "6",
     "fb_advance_native_skippos" : "10",
@@ -90,13 +90,13 @@
     "IsAdshowOneTime" : "false",
     "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
-    "google_ad_interestial": "ca-app-pub-3023927581363861/9439748155",
-    "google_banner" : "ca-app-pub-3023927581363861/8578641363",
-    "google_native_appid" : "ca-app-pub-3023927581363861~4228887414",
+    "google_ad_interestial": "",
+    "google_banner" : "",
+    "google_native_appid" : "",
     "google_native_adid" : "",
-    "google_open_adid" : "ca-app-pub-3023927581363861/8377947925",
-    "request_gap_interstrial" : "12000"
-    "is_nativeadvance_active" : "1",
+    "google_open_adid" : "",
+    "request_gap_interstrial" : "9000",
+    "is_nativeadvance_active" : "2",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
     "adex_advance_native_adid" : "",
@@ -105,7 +105,7 @@
     "applovin_interstrial" : "",
     "applovin_banner" : "",
     "applovin_native_advance" : "",
-    "active_banner_ad" : "1",
+    "active_banner_ad" : "2",
     "is_fb_bannerad_show" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
@@ -122,10 +122,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Video Player",
-    "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
-    "notipkg" : "bestplayer.freeplayer.videoplayer"
+    "notiappname" : "Gallery",
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 }
   ]
 }
