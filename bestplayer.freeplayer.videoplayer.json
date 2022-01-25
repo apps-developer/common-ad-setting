@@ -2000,7 +2000,7 @@
 },
   {
     "package_name":"bestplayer.freeplayer.videoplayer",  
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "6",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3200",
@@ -2014,7 +2014,7 @@
     "google_native_adid" : "",
     "google_open_adid" : "",
     "request_gap_interstrial" : "9000",
-    "is_nativeadvance_active" : "1",
+    "is_nativeadvance_active" : "2",
     "adex_ad_interestial" : "/22405025169,22602898820/bestplayer.freeplayer.videoplayer.Interstitial",
     "adex_ad_interestial_duration" : "0",
     "adex_advance_native_adid" : "/22405025169,22602898820/bestplayer.freeplayer.videoplayer.Native",
@@ -2023,14 +2023,14 @@
     "applovin_interstrial" : "6d31155de1f1eb49",
     "applovin_banner" : "1f8efa0821952410",
     "applovin_native_advance" : "5ed67b4b40381817",
-    "active_banner_ad" : "1",
+    "active_banner_ad" : "2",
     "is_fb_bannerad_show" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
     "is_live" : "true",
     "new_url" : "",
-    "version_code" : "73",
-    "new_version_code" : "73",
+    "version_code" : "75",
+    "new_version_code" : "75",
     "rate_counter" : "1",
     "rate_star_value" : "0",
     "product_id" : "",
@@ -2042,8 +2042,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Gallery",
     "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 }
 ]
 }
