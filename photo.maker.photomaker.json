@@ -15,7 +15,7 @@
     "google_native_appid" : ".",
     "google_native_adid" : "/6499/example/native",
     "google_open_adid" : "/6499/example/app-open",
-    "request_gap_interstrial" : "9000",
+    "request_gap_interstrial" : "0",
     "is_nativeadvance_active" : "3",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
