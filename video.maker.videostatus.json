@@ -139,7 +139,7 @@
    {
     "package_name":"video.maker.videostatus", 
     "active_ad" : "3",
-    "random_no" : "6",
+    "random_no" : "4",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3200",
     "isappOpen_showin_splash" : "1",
