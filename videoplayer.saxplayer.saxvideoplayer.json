@@ -345,7 +345,7 @@
    {
     "package_name":"videoplayer.saxplayer.saxvideoplayer",
     "active_ad" : "1",
-    "random_no" : "3",
+    "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3200",
     "isappOpen_showin_splash" : "1",
