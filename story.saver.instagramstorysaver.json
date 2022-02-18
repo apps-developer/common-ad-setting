@@ -208,9 +208,9 @@
   {
     "package_name":"story.saver.instagramstorysaver",
     "active_ad" : "2",
-    "random_no" : "1",
+    "random_no" : "3",
     "fb_advance_native_skippos" : "10",
-    "firstpage_fb_duration" : "3000",
+    "firstpage_fb_duration" : "3800",
     "IsAdshowOneTime" : "false",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "",
