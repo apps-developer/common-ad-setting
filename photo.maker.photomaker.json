@@ -139,13 +139,13 @@
     "license_key" : "",
     "message" : "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "removead_link" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/adremove_module.json",
-    "custom_adurl" : "",
-    "customad_pkg" : "",
-    "cust_isshow" : "false",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/galleryadbanner.png",
+    "customad_pkg" : "galleryapps.galleryalbum.gallery2019",
+    "cust_isshow" : "true",
     "notiappname" : "Music Player For Samsung",
     "notidesc" : "Music Player for samsung & Galaxy Device",
-    "notiurl" : "https://play-lh.googleusercontent.com/9hkeAVk3_MfEd_bs5qWUUUlgbawDC52lAMXgpd1f8eLkyEyn-WN2IbYHBUNRcj-W9w=s512",
-    "notipkg" : "music.player.musicplayernew"
+    "notiurl" : "",
+    "notipkg" : ""
 }
    ]
 }
