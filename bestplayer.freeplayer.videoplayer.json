@@ -2087,10 +2087,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-   "notiappname" : "All Video Downloader ",
-    "notidesc" : "Download of Fb,Insta & Twitter",
-    "notiurl" : "https://play-lh.googleusercontent.com/t0ErnXGbaTglaLuOctP3waSRoYDs3g6enRyOs5Zg-Q3MD6j4tNB9SOAjzF2ZiFEwpA=s512",
-    "notipkg" : "story.saver.instagramstorysaver"
+    "notiappname" : "Gallery",
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 },
    {
     "package_name":"bestplayer.freeplayer.videoplayer",  
@@ -2113,7 +2113,7 @@
     "request_gap_interstrial" : "12000",
     "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "/22405025169,22602898820/bestplayer.freeplayer.videoplayer.Interstitial",
-    "adex_ad_interestial_duration" : "1500",
+    "adex_ad_interestial_duration" : "0",
     "adex_advance_native_adid" : "/22405025169,22602898820/bestplayer.freeplayer.videoplayer.Native",
     "adex_nativebanner" : "/22405025169,22602898820/bestplayer.freeplayer.videoplayer.Banner",
     "adex_open_adid" : "/22405025169,22602898820/bestplayer.freeplayer.videoplayer.AppOpen",
@@ -2137,10 +2137,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "All Video Downloader ",
-    "notidesc" : "Download of Fb,Insta & Twitter",
-    "notiurl" : "https://play-lh.googleusercontent.com/t0ErnXGbaTglaLuOctP3waSRoYDs3g6enRyOs5Zg-Q3MD6j4tNB9SOAjzF2ZiFEwpA=s512",
-    "notipkg" : "story.saver.instagramstorysaver"
+    "notiappname" : "Gallery",
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 }
 ]
 }
