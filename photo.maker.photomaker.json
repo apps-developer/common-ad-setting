@@ -100,7 +100,7 @@
   {
     "package_name":"photo.maker.photomaker",  
     "active_ad" : "5",
-    "random_no" : "3",
+    "random_no" : "2",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3200",
     "isappOpen_showin_splash" : "1",
@@ -144,8 +144,8 @@
     "cust_isshow" : "true",
     "notiappname" : "Music Player For Samsung",
     "notidesc" : "Music Player for samsung & Galaxy Device",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://play-lh.googleusercontent.com/9hkeAVk3_MfEd_bs5qWUUUlgbawDC52lAMXgpd1f8eLkyEyn-WN2IbYHBUNRcj-W9w=s512",
+    "notipkg" : "music.player.musicplayernew"
 }
    ]
 }
