@@ -165,7 +165,7 @@
     "fb_interstrial_adid" : "515398226554074_515434193217144",
     "fb_native_advance_adid" : "515398226554074_515433893217174",
     "fb_banner_adid" : "515398226554074_515433229883907",
-    "request_gap_interstrial" : "12000",
+    "request_gap_interstrial" : "0",
     "is_nativeadvance_active" : "5",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
