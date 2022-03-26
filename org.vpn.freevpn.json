@@ -70,11 +70,11 @@
     "fb_banner_adid" : "",
     "request_gap_interstrial" : "0",
     "is_nativeadvance_active" : "1",
-    "adex_ad_interestial" : "",
+    "adex_ad_interestial" : "/6499/example/interstitial",
     "adex_ad_interestial_duration" : "0",
-    "adex_advance_native_adid" : ".",
-    "adex_nativebanner" : ".",
-    "adex_open_adid" : "",
+    "adex_advance_native_adid" : "/6499/example/native",
+    "adex_nativebanner" : "/6499/example/banner",
+    "adex_open_adid" : "/6499/example/app-open",
     "applovin_interstrial" : "",
     "applovin_banner" : "",
     "applovin_native_advance" : "",
@@ -95,10 +95,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "true",
-    "notiappname" : "Music Player For Samsung",
-    "notidesc" : "",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "All Format Video Player",
+    "notidesc" : "#1 Ranked Sax Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/QBtq7wPvtohvLLSnp6NZ6GwiorlncT1kHieahhsA2TZfTvbabqgO4Yw9pG3P3ujVmbI=s512",
+    "notipkg" : "videoplayer.saxplayer.saxvideoplayer"
 }
    ]
 }
