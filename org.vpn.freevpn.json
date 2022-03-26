@@ -57,7 +57,7 @@
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
     "isappOpen_showin_splash" : "0",
-    "IsAdshowOneTime" : "true",
+    "IsAdshowOneTime" : "false",
     "IsAdshowOneBack" : "false",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "/6499/example/interstitial",
