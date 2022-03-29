@@ -53,7 +53,7 @@
   {
     "package_name":"org.vpn.freevpn",  
     "active_ad" : "3",
-    "random_no" : "1",
+    "random_no" : "80",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
     "isappOpen_showin_splash" : "0",
