@@ -14,7 +14,7 @@
     "google_ad_interestial": "/6499/example/interstitial",
     "google_banner" : "",
     "google_native_appid" : "",
-    "google_native_adid" : "",
+    "google_native_adid" : "/6499/example/native",
     "google_open_adid" : "",
     "fb_interstrial_adid" : "",
     "fb_native_advance_adid" : "",
