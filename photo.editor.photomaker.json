@@ -8,8 +8,8 @@
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
     "isappOpen_showin_splash" : "1",
-    "IsAdshowOneTime" : "false",
-    "IsAdshowOneBack" : "true",
+    "IsAdshowOneTime" : "true",
+    "IsAdshowOneBack" : "false",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "/6499/example/interstitial",
     "google_banner" : "",
@@ -48,8 +48,8 @@
     "cust_isshow" : "true",
     "notiappname" : "Music Player For Samsung",
     "notidesc" : "Music Player for samsung & Galaxy Device",
-    "notiurl" : "https://play-lh.googleusercontent.com/9hkeAVk3_MfEd_bs5qWUUUlgbawDC52lAMXgpd1f8eLkyEyn-WN2IbYHBUNRcj-W9w=s512",
-    "notipkg" : "music.player.musicplayernew"
+    "notiurl" : "",
+    "notipkg" : ""
 }
  ]
 }
