@@ -3,7 +3,7 @@
  
  {
     "package_name":"photo.editor.photomaker",  
-    "active_ad" : "5",
+    "active_ad" : "1",
     "random_no" : "2",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
@@ -20,7 +20,7 @@
     "fb_native_advance_adid" : "",
     "fb_banner_adid" : "",
     "request_gap_interstrial" : "5000",
-    "is_nativeadvance_active" : "5",
+    "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
     "adex_advance_native_adid" : ".",
@@ -29,7 +29,7 @@
     "applovin_interstrial" : "",
     "applovin_banner" : "",
     "applovin_native_advance" : "",
-    "active_banner_ad" : "5",
+    "active_banner_ad" : "1",
     "is_fb_bannerad_show" : "1",
     "is_update" : "false",
     "is_forcefully": "false",
