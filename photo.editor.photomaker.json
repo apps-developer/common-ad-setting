@@ -146,10 +146,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "true",
-    "notiappname" : "Music Player For Samsung",
-    "notidesc" : "Music Player for samsung & Galaxy Device",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Gallery",
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://play-lh.googleusercontent.com/j7sl7SUIfBOGFWEdNQdsxDvdW7frPvG-MEDzdxpNkfwUR6YD4FWVuVJ538ZqFXAO7Gro=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 }
  ]
 }
