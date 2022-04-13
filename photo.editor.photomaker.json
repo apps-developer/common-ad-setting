@@ -103,7 +103,7 @@
 },
    {
     "package_name":"photo.editor.photomaker",  
-    "active_ad" : "3",
+    "active_ad" : "5",
     "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
@@ -113,7 +113,7 @@
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "",
     "google_banner" : "",
-    "google_native_appid" : "",
+    "google_native_appid" : ".",
     "google_native_adid" : "",
     "google_open_adid" : "",
     "fb_interstrial_adid" : "1043342269896010_1043343636562540",
