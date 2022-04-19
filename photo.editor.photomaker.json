@@ -203,7 +203,7 @@
 },
   {
     "package_name":"photo.editor.photomaker",  
-    "active_ad" : "3",
+    "active_ad" : "5",
     "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
@@ -220,7 +220,7 @@
     "fb_native_advance_adid" : "1043342269896010_1043344069895830",
     "fb_banner_adid" : "1043342269896010_1043343919895845",
     "request_gap_interstrial" : "0",
-    "is_nativeadvance_active" : "3",
+    "is_nativeadvance_active" : "5",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
     "adex_advance_native_adid" : ".",
@@ -229,7 +229,7 @@
     "applovin_interstrial" : "5491338001ae0c5c",
     "applovin_banner" : "370b3d928052b900",
     "applovin_native_advance" : "6aebc091934f3362",
-    "active_banner_ad" : "3",
+    "active_banner_ad" : "5",
     "is_fb_bannerad_show" : "1",
     "is_update" : "false",
     "is_forcefully": "false",
@@ -246,10 +246,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "true",
-    "notiappname" : "All Format Video Player",
-    "notidesc" : "#1 Ranked Sax Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Gallery",
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 }
  ]
 }
