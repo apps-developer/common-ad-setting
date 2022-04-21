@@ -184,11 +184,11 @@
    {
     "package_name":"musicplay.musicplayer",
     "active_ad" : "1",
-    "random_no" : "4",
+    "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
     "isappOpen_showin_splash" : "1",
-    "IsAdshowOneTime" : "true",
+    "IsAdshowOneTime" : "false",
     "IsAdshowOneBack" : "false",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "ca-app-pub-8150230125101393/1677894621",
