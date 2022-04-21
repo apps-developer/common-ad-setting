@@ -189,13 +189,13 @@
     "splashscreen_duration" : "3400",
     "isappOpen_showin_splash" : "1",
     "IsAdshowOneTime" : "false",
-    "IsAdshowOneBack" : "false",
+    "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "/6499/example/interstitial",
-    "google_banner" : "ca-app-pub-8150230125101393/1103141569",
-    "google_native_appid" : "ca-app-pub-8150230125101393~9283269513",
-    "google_native_adid" : "ca-app-pub-8150230125101393/5233996259",
-    "google_open_adid" : "ca-app-pub-8150230125101393/7326339955",
+    "google_banner" : "/6499/example/banner",
+    "google_native_appid" : ".",
+    "google_native_adid" : "/6499/example/native",
+    "google_open_adid" : "/6499/example/app-open",
     "fb_interstrial_adid" : "1043342269896010_1043343636562540",
     "fb_native_advance_adid" : "1043342269896010_1043344069895830",
     "fb_banner_adid" : "1043342269896010_1043343919895845",
@@ -226,10 +226,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "true",
-    "notiappname" : "Gallery",
-    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Story Saver - Video Downloader & Status Saver",
+    "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
+    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
+    "notipkg" : "story.saver.instagramstorysaver" 
 }
 ]
 }
