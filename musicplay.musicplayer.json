@@ -199,7 +199,7 @@
     "fb_interstrial_adid" : "1043342269896010_1043343636562540",
     "fb_native_advance_adid" : "1043342269896010_1043344069895830",
     "fb_banner_adid" : "1043342269896010_1043343919895845",
-    "request_gap_interstrial" : "9000",
+    "request_gap_interstrial" : "0",
     "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "1500",
