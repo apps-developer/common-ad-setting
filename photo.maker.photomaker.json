@@ -200,12 +200,12 @@
    {
     "package_name":"photo.maker.photomaker",  
     "active_ad" : "5",
-    "random_no" : "5",
+    "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
     "isappOpen_showin_splash" : "1",
-    "IsAdshowOneTime" : "true",
-    "IsAdshowOneBack" : "false",
+    "IsAdshowOneTime" : "false",
+    "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "",
     "google_banner" : "",
@@ -215,7 +215,7 @@
     "fb_interstrial_adid" : "515398226554074_515434193217144",
     "fb_native_advance_adid" : "515398226554074_515433893217174",
     "fb_banner_adid" : "515398226554074_515433229883907",
-    "request_gap_interstrial" : "5000",
+    "request_gap_interstrial" : "8000",
     "is_nativeadvance_active" : "5",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
@@ -244,8 +244,8 @@
     "cust_isshow" : "true",
     "notiappname" : "Music Player For Samsung",
     "notidesc" : "Music Player for samsung & Galaxy Device",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://play-lh.googleusercontent.com/9hkeAVk3_MfEd_bs5qWUUUlgbawDC52lAMXgpd1f8eLkyEyn-WN2IbYHBUNRcj-W9w=s512",
+    "notipkg" : "music.player.musicplayernew"
 }
    ]
 }
